@@ -5,6 +5,10 @@ export default function Login(props) {
   const handleLoginClick = () => {
     alert('Hello Matthew');
   };
+  export default function Login(props) {
+    const handleLoginClick = () => {
+      alert('Hello Rafael');
+    };
 
   return (
     <View style={styles.login}>
