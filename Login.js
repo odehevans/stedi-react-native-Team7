@@ -4,10 +4,10 @@ import { StyleSheet, View, Text, Button } from 'react-native';
 export default function Login(props) {
   const handleLoginClick = () => {
     alert('Hello Matthew');
+    alert('Hello Rafael');
   };
-  export default function Login(props) {
-    const handleLoginClick = () => {
-      alert('Hello Rafael');
+
+      
     };
 
   return (
